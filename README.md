@@ -7,6 +7,7 @@
 🚀 Building cool stuff with code  
 
 ## Lets play a Game - Guess My Number!
+
 I'm thinking of a number between 1-100...
 
 <details>
